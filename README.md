@@ -73,6 +73,7 @@ Former Vice President of <b>AUST Programming and Informatics Club (AUSTPIC)</b> 
         <a href="https://www.codechef.com/users/apuye">CC Profile</a>
       </td>
     </tr>
+  </tr>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
@@ -85,7 +86,7 @@ Former Vice President of <b>AUST Programming and Informatics Club (AUSTPIC)</b> 
         <a href="https://leetcode.com/u/ApuYe/">LC Profile</a>
       </td>
     </tr>
-    <tr>
+   <tr>
       <td>UVA, LightOJ, Vjudge, Toph etc</td>
       <td>—</td>
       <td>2400+ problems solved</td>
@@ -140,7 +141,7 @@ DUET IUPC 2025 (22nd), UIU IUPC 2025, KUET IUPC 2025, AUST IUPC 2025, UU IUPC 20
 
 ## 👨‍🏫 CP Trainer & Contest Organizer
 
-- 🧠 <b>Competitive Programming Trainer</b> – AUST ACM Lab‑2 (2023–Present)
+- 🧠 <b>Competitive Programming Trainer</b> – AUST ACM Lab‑2 (Oct 2023–Feb 2025)
 - 🎯 <b>Lead Organizer</b> of:
   - AUST CSE Carnival 4.0 Programming Contest
   - Multiple AUST ACM Lab‑2 Onsite Selection Contests
@@ -179,8 +180,8 @@ Mentoring and leading young programmers is one of my greatest passions.
 
 <p align="center">
   <!-- LeetCode Stats Card -->
-  <a href="https://leetcode.com/u/apu2723/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/apu2723?theme=dark&font=mono&border=true&card_w=700" alt="LeetCode Stats" width="700" />
+  <a href="https://leetcode.com/u/ApuYe/" target="_blank" rel="noopener noreferrer">
+    <img src="https://leetcard.jacoblin.cool/ApuYe?theme=dark&font=mono&border=true&card_w=700" alt="LeetCode Stats" width="700" />
   </a>
 </p>
 
