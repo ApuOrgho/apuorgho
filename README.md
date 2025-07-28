@@ -101,17 +101,16 @@ Former Vice President of <b>AUST Programming and Informatics Club (AUSTPIC)</b> 
 ### 🌏 International & National
 - 🏁 <b>ICPC Asia West Continent 2022</b> – Regional Contestant
 - 🏁 <b>ICPC Dhaka Regional 2022, 2023, 2024</b> – Contestant
-- ⚔️ <b>Code Samurai 2024</b> – 41st place (Team: AUST_THE_FINAL_FRONTIER)
+- ⚔️ <b>Code Samurai 2024</b> – Finalist (Team: AUST_THE_FINAL_FRONTIER, Top 46)
 - 🏅 <b>JU National Collegiate Programming Contest (NCPC) 2024</b> – Participant
-- 🏅 <b>UAP IUCPC 2023</b> – Participant
 
 ### 🏅 Intra & Inter-University Programming Contests
 - 🥇 <b>Champion</b> – Intra AUST Programming Contest Fall 2022
 - 🥇 <b>Champion</b> – Intra AUST Programming Contest Spring 2022
 - 🥇 <b>Champion</b> – Intra AUST Programming Contest Fall 2022 (AUSTPIC Team)
 
-<b>Finalist / Top Finisher at:</b>  
-DUET IUPC 2025 (22nd), UIU IUPC 2025, KUET IUPC 2025, AUST IUPC 2025, UU IUPC 2025, CUET IUPC 2024, SUST IUPC 2024, BUET IUPC 2023, IUT IUPC 2024, JU NCPC 2024, UAP IUCPC 2023, CoU IUPC 2023 (20th)
+<b>Participated in:</b>  
+DUET IUPC 2025 (22nd), UIU IUPC 2025, KUET IUPC 2025, AUST IUPC 2025, UU IUPC 2025, CUET IUPC 2024, SUST IUPC 2024, BUET IUPC 2023, IUT IUPC 2024, JU NCPC 2024, UAP IUCPC 2023, CoU IUPC 2023 (20th),UAP IUCPC 2023
 
 ### 🏆 Programming Contests Table
 
