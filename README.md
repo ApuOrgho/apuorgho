@@ -86,7 +86,7 @@ Former Vice President of <b>AUST Programming and Informatics Club (AUSTPIC)</b> 
       </td>
     </tr>
     <tr>
-      <td>UVA, LightOJ, Vjudge, Toph</td>
+      <td>UVA, LightOJ, Vjudge, Toph etc</td>
       <td>—</td>
       <td>2400+ problems solved</td>
       <td>—</td>
