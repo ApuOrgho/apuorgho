@@ -107,7 +107,7 @@ Former Vice President of <b>AUST Programming and Informatics Club (AUSTPIC)</b> 
 ### 🏅 Intra & Inter-University Programming Contests
 - 🥇 <b>Champion</b> – Intra AUST Programming Contest Fall 2022
 - 🥇 <b>Champion</b> – Intra AUST Programming Contest Spring 2022
-- 🥇 <b>Champion</b> – Intra AUST Programming Contest Fall 2022 (AUSTPIC Team)
+- 🥇 <b>Champion</b> – Intra AUST Programming Contest Fall 2022 (Organized by AUSTPIC)
 
 <b>Participated in:</b>  
 DUET IUPC 2025 (22nd), UIU IUPC 2025, KUET IUPC 2025, AUST IUPC 2025, UU IUPC 2025, CUET IUPC 2024, SUST IUPC 2024, BUET IUPC 2023, IUT IUPC 2024, JU NCPC 2024, UAP IUCPC 2023, CoU IUPC 2023 (20th),UAP IUCPC 2023
