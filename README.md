@@ -77,12 +77,12 @@ Former Vice President of <b>AUST Programming and Informatics Club (AUSTPIC)</b> 
       <td>
         <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
       </td>
-      <td><code>apu2723</code></td>
+      <td><code>ApuYe</code></td>
       <td>
         <img src="https://img.shields.io/badge/Stats%20&%20Profile-FFA116?style=flat-square" alt="LeetCode" />
       </td>
       <td>
-        <a href="https://leetcode.com/u/apu2723/">LC Profile</a>
+        <a href="https://leetcode.com/u/ApuYe/">LC Profile</a>
       </td>
     </tr>
     <tr>
